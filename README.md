@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @S-pk
+- 👀 I’m interested in JSON and Python.
+- 🌱 I’m currently learning Python little by little, and I am about 95% done with JSON. 
+- 💞️ I’m looking to collaborate on really nothing.
+- 📫 How to reach me is...
